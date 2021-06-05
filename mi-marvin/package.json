@@ -1,0 +1,32 @@
+{
+    "name": "mi-marvin",
+    "displayName": "Mi-Marvin",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Extension - Marvin",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Extension - Marvin-color-theme.json"
+        }]
+    },
+
+    "icons": "icons/Marvin2001.png",
+    "author": {
+        "name": "Marvin Galeano",
+        "email": "marvingaleano182001@gmail.com"
+
+    },
+    "repository": {
+        "url": "git@github.com:MarvinGaleano/extension-codigo-v.git",
+        "type": "git"
+    },
+    "publisher": "Marvin-Galeano"
+
+}
